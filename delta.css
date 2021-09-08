@@ -1,0 +1,258 @@
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&family=Spinnaker&family=Varela+Round&display=swap');
+body{
+	background-size: 100%;
+	background-repeat: no-repeat;
+    background-image: url(delta1.png);
+}
+
+.div1{
+	
+background-image: url(delta4.png);
+background-size: 96%;
+background-repeat: no-repeat;
+background-position: center center;
+position: absolute;
+left: 30px;
+top: 10px;
+width: 96%;
+height:96%;
+}
+
+.ligne{
+	position:absolute;
+	height: 690px;
+	left: 220px;
+	top: 20px;
+	border: 1px solid white;
+}
+
+.ligne1{
+	position: absolute;
+	width: 40px;
+	left: 70px;
+	top: 80px;
+	border: 1px solid white;
+}
+
+
+.ligne2{
+	position: absolute;
+	width: 20px;
+	left: 70px;
+	top: 89px;
+	border: 1px solid white;
+}
+
+.ligne3{
+	position: absolute;
+	width: 40px;
+	left: 70px;
+	top: 97px;
+	border: 1px solid white;
+}
+
+nav{
+	position: absolute;
+	left: 30px;
+	top: 180px;
+
+}
+
+ul li{
+	list-style-type: none;
+	padding-top: 40px;
+
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+	font-size: 24px;
+	font-family: Calibri Regular;
+}
+
+li a:hover{
+	border-radius: 10px;
+	border: 2px solid white;
+    font-size: 25px;
+    width: 100px;
+    background-color: white;
+    color: black;
+}
+
+.cercle1{
+	position: absolute;
+	border: 5px solid white;
+	border-radius: 100%;
+	width: 70px;
+	height: 70px;
+	left: 680px;
+	top: 58px;
+}
+
+.cercle2{
+	position: absolute;
+	border: 5px solid white;
+	border-radius: 100%;
+	width: 35px;
+	height: 35px;
+	left: 13px;
+	top: 12px;
+}
+
+.cercle3{
+	position: absolute;
+	border: 5px solid white;
+	border-radius: 100%;
+	width: 10px;
+	height: 10px;
+	left:8px;
+	top:8px;
+}
+
+.inline1{
+	border: 2px solid white;
+	background-color: white;
+	position: absolute;
+	height: 20px;
+	top: 4px;
+	left: 34px;
+}
+
+.inline4{
+	border: 2px solid white;
+	background-color: white;
+	position: absolute;
+	height: 20px;
+	top: 42px;
+	left: 34px;
+}
+
+.inline2{
+	position: absolute;
+	border: 2px solid white;
+	background-color: white;
+	width: 20px;
+	top: 34px;
+	left: 3px;
+}
+
+.inline3{
+	position: absolute;
+	border: 2px solid white;
+	background-color: white;
+	width: 20px;
+	top: 34px;
+	left: 43px;
+}
+
+.reseau-social{
+	display: inline-flex;
+	position: absolute;
+	height: 80px;
+	width: 110px;
+	top: 660px;
+	left: 32px;
+}
+
+
+.titledelta{
+	position: absolute;
+	left: 645px;
+	top: 145px;
+	font-size: 35px;
+	letter-spacing: 2px;
+	 font-family: 'Nosifer', cursive;
+	color: white;
+}
+
+.title1{
+	position: absolute;
+	left: 430px;
+	top: 220px;
+	font-size: 90px;
+	letter-spacing: 5px;
+	font-family: 'Spinnaker', bold;
+	color: white;
+}
+
+.title2{
+	position: absolute;
+	left: 640px;
+	top: 320px;
+	font-size: 90px;
+	letter-spacing: 5px;
+	font-family: 'Spinnaker', bold;
+	color: white;
+}
+
+.p1{
+	position: absolute;
+	left: 595px;
+	top: 580px;
+	font-size: 25px;
+	font-family: 'Spinnaker', bold;
+	color: white;
+}
+
+.p2{
+	position: absolute;
+	right: 150px;
+	top: 650px;
+	color: white;
+}
+
+.p3{
+	position: absolute;
+	right: 125px;
+	top: 650px;
+	color: white;
+	opacity: 70%;
+}
+
+.phone{
+	position: absolute;
+	height: 20px;
+	width: 20px;
+	right: 290px;
+	top: 70px;
+}
+
+.p4{
+	position: absolute;
+	right: 120px;
+	top: 55px;
+	font-size: 15px;
+	font-family: 'Spinnaker', bold;
+	color: white;
+	
+}
+
+
+.img1{
+	position: absolute;
+	height: 20px;
+	width: 40px;
+	left: 680px;
+	top: 670px;
+}
+
+.img1:hover{
+	top: 680px;
+	height: 20px;
+	width: 40px;
+}
+
+
+
+img{
+	height: 20px;
+	 width: 20px;
+	 margin-left: 34px;
+}
+
+img:hover{
+	height: 40px;
+	width: 40px;
+}
